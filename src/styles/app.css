@@ -1,0 +1,13 @@
+.body{
+    background-color: rgb(37, 49, 57);
+  }
+  
+  .navegacao{
+    height: 8rem;
+    background-color: rgb(37, 49, 57);
+  }
+  
+  .cabecalho img{
+    height: 5rem;
+    padding: 1.5rem;
+  }
