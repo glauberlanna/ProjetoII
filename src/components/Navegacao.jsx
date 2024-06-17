@@ -6,6 +6,8 @@ const Navegacao = () => {
     return (
             <div className="navegacao">
                 <div className="botao"><Link to='/' >HOME</Link></div>
+                <div className="botao"><Link to='/Categorias' >CATEGORIAS</Link></div>
+                <div className="botao"><Link to='/login' >LOGIN</Link></div>
                 <div className="botao"><Link to='/Criarconta' >CRIAR CONTA</Link></div>
             </div>
     )

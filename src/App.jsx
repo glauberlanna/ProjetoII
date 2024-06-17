@@ -1,5 +1,6 @@
 import './styles/app.css'
 import Navegacao from './components/Navegacao';
+import Anuncios from './components/Anuncios';
 
 function App() {
 
@@ -7,6 +8,7 @@ function App() {
     <>
       <Navegacao />
       <h1>HOME PRINCIPAL</h1>
+      <Anuncios />
     </>
   )
 }

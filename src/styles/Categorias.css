@@ -1,0 +1,221 @@
+.conteudo .oferta{
+    background-color: rgba(48, 62, 71, 0.795);
+    padding: 1rem;
+    margin: 1rem;
+    width: 30%;
+    border-radius: 10px;
+    display: inline-block;
+    
+  }
+  
+  .conteudo .oferta1{
+    background-image: url("../categoriasImg/acessorios.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: rgb(137, 231, 227);
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 25px;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+    width: 20%;
+    border-radius: 10px;
+    display: inline-block;
+  }
+  
+  .conteudo .oferta2{
+    background-image: url("../categoriasImg/beleza.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: rgb(137, 231, 227);
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 25px;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+    width: 20%;
+    border-radius: 10px;
+    display: inline-block;
+  }
+  
+  .conteudo .oferta3{
+    background-image: url("../categoriasImg/brinquedos.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: rgb(137, 231, 227);
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 25px;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+    width: 20%;
+    border-radius: 10px;
+    display: inline-block;
+  }
+  
+  .conteudo .oferta4{
+    background-image: url("../categoriasImg/construcao.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: rgb(137, 231, 227);
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 25px;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+    width: 20%;
+    border-radius: 10px;
+    display: inline-block;
+  }
+  
+  .conteudo .oferta5{
+    background-image: url("../categoriasImg/eletrodomesticos.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: rgb(137, 231, 227);
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 25px;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+    width: 20%;
+    border-radius: 10px;
+    display: inline-block;
+  }
+  .conteudo .oferta6{
+    background-image: url("../categoriasImg/ferramentas.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: rgb(137, 231, 227);
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 25px;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+    width: 20%;
+    border-radius: 10px;
+    display: inline-block;
+  }
+  
+  .conteudo .oferta7{
+    background-image: url("../categoriasImg/imoveis.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: rgb(137, 231, 227);
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 25px;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+    width: 20%;
+    border-radius: 10px;
+    display: inline-block;
+  }
+  
+  .conteudo .oferta8{
+    background-image: url("../categoriasImg/industria.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: rgb(137, 231, 227);
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 25px;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+    width: 20%;
+    border-radius: 10px;
+    display: inline-block;
+  }
+  
+  .conteudo .oferta9{
+    background-image: url("../categoriasImg/lar.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: rgb(137, 231, 227);
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 25px;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+    width: 20%;
+    border-radius: 10px;
+    display: inline-block;
+  }
+  
+  .conteudo .oferta10{
+    background-image: url("../categoriasImg/saude.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: rgb(137, 231, 227);
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 25px;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+    width: 20%;
+    border-radius: 10px;
+    display: inline-block;
+  }
+  
+  .conteudo .oferta11{
+    background-image: url("../categoriasImg/supermercado.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: rgb(137, 231, 227);
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 25px;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+    width: 20%;
+    border-radius: 10px;
+    display: inline-block;
+  }
+  
+  .conteudo .oferta12{
+    background-image: url("../categoriasImg/tecnologia.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: rgb(137, 231, 227);
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 25px;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+    width: 20%;
+    border-radius: 10px;
+    display: inline-block;
+  }
+  
+  .conteudo .oferta13{
+    background-image: url("../categoriasImg/veiculos.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: rgb(137, 231, 227);
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 25px;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+    width: 20%;
+    border-radius: 10px;
+    display: inline-block;
+  }
+  
+  .conteudo .oferta14{
+    background-image: url("../categoriasImg/viagens.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: rgb(137, 231, 227);
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 25px;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+    width: 20%;
+    border-radius: 10px;
+    display: inline-block;
+  }
